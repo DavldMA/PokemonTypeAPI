@@ -1,2 +1,2 @@
 # PokemonTypeAPI
-test
+TODO: readme and a main page
